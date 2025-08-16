@@ -24,3 +24,6 @@ It demonstrates how **data visualization and storytelling** can make complex med
 - **Power BI Desktop**  
 - Data Cleaning & Modeling (Power Query, DAX)  
 - Visualization & Dashboard Design  
+
+## 📸 Dashboard Preview
+![Dashboard Preview](https://github.com/Seemran26/HealthSurvival-Analytics/blob/main/Screenshot%202025-08-16%20184057.png)  
